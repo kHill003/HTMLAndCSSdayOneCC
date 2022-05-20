@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body > header {
+    background-color: rgb(255, 30, 173);
+    color: white;
+  }
+  #logo {
+    margin: 0;
+    font-family: 'DM Sans', sans-serif;
+  }
+  nav > ul {
+    list-style: none;
+  }
+  
+  nav > ul > li > a {
+    color: white;
+    
+  }
+  body > main > article {
+    margin: auto;
+    width: 65%;
+  }
+  
+body > footer {
+    background-color: rgb(189, 27, 159);
+  }
+  body > footer > p {
+    padding: 16px;
+    text-align: center;
+    color: white;
+  }
+  .like-button {
+    background-color: transparent;
+    border: 1px solid rgb(23, 162, 232);
+  }
+  
+  .share-button {
+    background-color: transparent;
+    border: 1px solid rgb(0, 128, 0);
+  }
+  
