@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+body > header {
+    padding: 16px;
+    background: hotpink;
+}
+
+body > header > h1 {
+    padding-left: 16px;
+    color:oldlace;
+}
+body > main {
+    margin: auto;
+    width: 70%;
+}
+body > footer > p {
+    margin: 0;
+    padding: 30px;
+}
+body > footer {
+    background-color:hotpink;
+    color: white;
+    text-align: center;
+}
